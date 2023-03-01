@@ -26,3 +26,11 @@ git init
 git init
 git add
 git add.
+git add .
+git status
+git commit -m "Initial commit"
+git remote add origin https://github.com/topsey3/events-app-api-server.git
+git branch -M main
+git push -u origin main
+git push -u origin main
+git push -u origin main
